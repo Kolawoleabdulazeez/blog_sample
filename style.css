@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #f8a1;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman';
+    margin-top: 10px;
+    font-size:16;
+}
+
+.blog {
+    margin: 0 auto;
+    width: 600px;
+}
+
+h1 {
+    text-align: center;
+    color: purple;
+    background-color: seashell;
+    padding: 10px;
+    border-style: dotted;
+    border-color: blanchedalmond;
+}
+
+article{
+    margin: 25px 0;
+    padding: 20px;
+    background:rgb(208, 209, 206);
+}
+small{
+    color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 10 0 10hpx;
+    
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+    margin:10px;
+}
+.justok{
+    border-top: solid 1px gray ;
+    margin: 10px;
+}
+.ok{
+    text-align: center;
+    color: darkblue;
+}
